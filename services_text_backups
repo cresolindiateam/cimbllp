@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>cim</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<!-- google fonts -->
+
+		<!-- Css link -->
+		<link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/owl.carousel.css">
+		<link rel="stylesheet" href="css/owl.transitions.css">
+		<link rel="stylesheet" href="css/animate.min.css">
+		<link rel="stylesheet" href="css/lightbox.css">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/preloader.css">
+		<link rel="stylesheet" href="css/image.css">
+		<link rel="stylesheet" href="css/icon.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/responsive.css">
+
+	</head>
+	<body id="top">
+	
+
+        <header id="navigation" class="navbar-fixed-top animated-header">
+            <div class="container">
+                <div class="navbar-header">
+                    <!-- responsive nav button -->
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+                    </button>
+					<!-- /responsive nav button -->
+					
+					<!-- logo -->
+					<h1 class="navbar-brand">
+						<a href="#body"><img src="img/logo.png" height=""  alt=""></a>
+						<div class="logo-name">CREATIVE INTEGRATED MEDIA</div>
+					</h1>
+					<!-- /logo -->
+                </div>
+
+				<!-- main nav -->
+                <nav class="collapse navbar-collapse navbar-right" role="navigation">
+                    <ul id="nav" class="nav navbar-nav menu">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Our Work</a></li>
+                        <li><a href="#">Our Clients</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </nav>
+				<!-- /main nav -->
+				
+            </div>
+        </header>
+
+
+	<div class="wrapper">
+		<section id="banner">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="block">
+							
+							<h1>We <span class="blue-text">Have</span> it!</h1>
+							<h2>Whatever you need to <span class="blue-text">start or grow</span> your store.</h2>
+						<center>
+						<div class="buttons">
+								<a href="#"  class="btn btn-learn">Let's Get Started</a>
+								
+							</div>
+							</center>	
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="scrolldown">
+	            <a id="scroll" href="#features" class="scroll"></a>
+	        </div>
+		</section>
+		<section id="features" class="services">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="title">
+							<h2>Our Services</h2>
+							<p>We offer the full spectrum of advertising services that will help <br> to attract new clients or sell more products.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4 col-xs-6 col-sm-6 no-bl">
+						<div class="feature-block text-center ">
+							<div class="icon-box">
+								<img src="img/icon_1.png">
+							</div>
+							<h4 class="wow fadeInUp" data-wow-delay=".3s">Printing</h4>
+							<div class="divide"></div>
+							<p class="wow fadeInUp" data-wow-delay=".5s">Our Big Print Shop is a large format printing service. We have the abillity to print on an extensive variety of media.We have the deep experienced in this highly specialised filed and have knowledgeable to give the best.</p>
+						</div>
+						<div class="disign-cube"></div>
+					</div>
+					<div class="col-md-4 col-xs-6 col-sm-6">
+						<div class="feature-block text-center">
+							<div class="icon-box">
+								<img src="img/icon_2.png">
+							</div>
+							<h4 class="wow fadeInUp" data-wow-delay=".3s">3d Lenticular</h4>
+							<div class="divide"></div>
+							<p class="wow fadeInUp" data-wow-delay=".5s">
+
+3d Lenticular conveniently provide an extra punch to your marketing message in an inexpensive package. Get your message out to potential customers quickly and concisely with a  our well designed 3d Lenticular.</p>
+						</div>
+						<div class="disign-cube"></div>
+					</div>
+					<div class="col-md-4 col-xs-6 col-sm-6" style="border-right:none;">
+						<div class="feature-block text-center">
+							<div class="icon-box">
+								<img src="img/icon_3.png">
+							</div>
+							<h4 class="wow fadeInUp" data-wow-delay=".3s">Signs and Signages</h4>
+							<div class="divide"></div>
+							<p class="wow fadeInUp" data-wow-delay=".5s">Energy- efficient light emitting diodes (LEDs) for commercial application provide a unique opportunity to fulfill general
+							 outdoor illumination requirments. This opens a new dimension in business relation between you and your partner. It has got various benefits like long life, briliant colour saturation, cost saving, simple installation, lower maintenance cost etc</p>
+						</div>
+
+					</div>
+
+					<div class="col-md-4 col-xs-6 col-sm-6">
+						<div class="feature-block text-center">
+							<div class="icon-box">
+								<img src="img/icon_4.png">
+							</div>
+							<h4 class="wow fadeInUp" data-wow-delay=".3s">VM Shop Window</h4>
+							<div class="divide"></div>
+							<p class="wow fadeInUp" data-wow-delay=".5s">Visual Merchandising is a art of displaying merchandise in a manneer that is appealing to the eyes of the customer. It sets the context of the merchandise in an aesthetically pleasing fashion, presenting them in a way that would convert the window shoppers into prospects and ultemately buyers of the product. A creative and talented retailer can use the this upcomming art of breath in new life into his store products.
+						</div>
+					</div>
+
+
+					<div class="col-md-4 col-xs-6 col-sm-6">
+						<div class="feature-block text-center">
+							<div class="icon-box">
+								<img src="img/icon_5.png">
+							</div>
+							<h4 class="wow fadeInUp" data-wow-delay=".3s">POP & POS</h4>
+							<div class="divide"></div>
+							<p class="wow fadeInUp" data-wow-delay=".5s">According to point of purchase advertising survey 70% of purchase decision are inside the store. Let us help you influence
+							buying the full color digital graphics on your pop signage, banners and vehical graphics. We manufacture fall type of acrylic products top loading sign holders, bottom loading sign holders, slant back sign holders, magnetic sign holders, table tent, window mount sign holders, acrylic ballot boxes, food display cases, acrylic cake rack etc. </p>
+						</div>
+					</div>
+
+
+					<div class="col-md-4 col-xs-6 col-sm-6" style="border-right:none;">
+						<div class="feature-block text-center">
+							<div class="icon-box">
+								<img src="img/icon_6.png">
+							</div>
+							<h4 class="wow fadeInUp" data-wow-delay=".3s">Retail Display</h4>
+							<div class="divide"></div>
+							<p class="wow fadeInUp" data-wow-delay=".5s">Creative an attractive product display can draw the costumer in, promote a slow-moving item, announce a sale, or welcome a season. If you store front or inside is fortunate enough to feature one or more such displays, then you have one of the most proven forms of advertising at your disposal.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="counter">
+			<div class="container">
+				<div class="row">
+					<div class="title" style="padding-bottom: 0px">
+						<h2>Creative Advertising</h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisic-
+ing elit, sed do eiusmod tempor incididunt ut <br>
+labore et dolore magna aliqua. Ut enim ad minim</p>
+
+						<div class="button ion-ios-play-outline wow zoomIn" data-wow-delay=".3s"></div>
+						<button class="btn " type="submit" style="border-color: #fff;
+    border-radius: 25px;
+    color: #fff;
+    font-size: 16px;
+    display: inline-block;
+    font-weight: 600;
+    transition: 0.3s;
+    background: #fff;
+    color: #80d6a3;">Contact Us</button>
+					</div>
+					
+					
+					
+					
+				</div>
+			</div>
+		</section>
+		<section id="portfolio">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="title">
+							<h2>LATEST WORK</h2>
+							<p>Dantes remained confused and silent by this explanation of the <br> thoughts which had unconsciously</p>
+						</div>
+						<div class="block">
+							<div class="recent-work-mixMenu">
+								<ul>
+									<li><button class="filter" data-filter="all">All</button></li>
+									<li><button class="filter" data-filter=".category-2">Printing</button></li>
+									<li><button class="filter" data-filter=".category-1">3d Lenticular</button></li>
+									<li><button class="filter" data-filter=".category-2">Signs and Signages</button></li>
+									<li><button class="filter" data-filter=".category-1">VM Shop Window</button></li>
+
+									<li><button class="filter" data-filter=".category-1">POP & POS</button></li>
+
+									<li><button class="filter" data-filter=".category-1">Retail Display</button></li>
+								</ul>
+							</div>
+							<div class="recent-work-pic">
+								<ul id="mixed-items">
+									<li class="mix category-1 col-md-4 col-xs-6" data-my-order="1">
+										<a class="example-image-link" href="img/work1.jpg" data-lightbox="example-set">
+											<img class="img-responsive" src="img/work1.jpg" alt="">
+											<div class="overlay">
+													<h3 style="display:none">Web design</h3>
+													<i class="ion-ios-plus-empty"></i>
+											</div>
+										</a>
+									</li>
+									<li class="mix category-2 col-md-4 col-xs-6" data-my-order="2">
+										<a class="example-image-link" href="img/work2.jpg" data-lightbox="example-set">
+											<img class="img-responsive" src="img/work2.jpg" alt="">
+											<div class="overlay">
+												<h3 style="display:none">Web design</h3>
+												<i class="ion-ios-plus-empty"></i>
+											</div>
+										</a>
+									</li>
+									<li class="mix category-1 col-md-4 col-xs-6" data-my-order="3">
+										<a class="example-image-link" href="img/work3.jpg" data-lightbox="example-set">
+											<img class="img-responsive" src="img/work3.jpg" alt="">
+											<div class="overlay">
+												<h3 style="display:none">Web design</h3>
+												<i class="ion-ios-plus-empty"></i>
+											</div>
+										</a>
+									</li>
+									<li class="mix category-2 col-md-4 col-xs-6" data-my-order="4">
+										<a class="example-image-link" href="img/work4.jpg" data-lightbox="example-set">
+											<img class="img-responsive" src="img/work4.jpg" alt="">
+											<div class="overlay">
+												<h3 style="display:none">Web design</h3>
+												<i class="ion-ios-plus-empty"></i>
+											</div>
+										</a>
+									</li>
+									<li class="mix category-1 col-md-4 col-xs-6" data-my-order="5">
+										<a class="example-image-link" href="img/work5.jpg" data-lightbox="example-set">
+											<img class="img-responsive" src="img/work5.jpg" alt="">
+											<div class="overlay">
+												<h3 style="display:none">Web design</h3>
+												<i class="ion-ios-plus-empty"></i>
+											</div>
+										</a>
+									</li>
+									<li class="mix category-2 col-md-4 col-xs-6" data-my-order="6">
+										<a class="example-image-link" href="img/work6.jpg" data-lightbox="example-set">
+											<img class="img-responsive" src="img/work6.jpg" alt="">
+											<div class="overlay">
+												<h3 style="display:none">Web design</h3>
+												<i class="ion-ios-plus-empty"></i>
+											</div>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="play-video">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="block">
+							<h2 class="wow fadeInUp" data-wow-delay=".3s">Resonable Pricing</h2>
+							<p class="wow fadeInUp" data-wow-delay=".5s">Dantes remained confused and silent by this explanation of the 
+thoughts <br> which had unconsciously </p>
+							<a href="https://vimeo.com/channels/staffpicks/145743834" class="html5lightbox" data-width=800 data-height=400>
+								<div style="display: none;" class="button ion-ios-play-outline wow zoomIn" data-wow-delay=".3s"></div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="team">
+			<div class="container">
+				<div class="row">
+					<div class="title">
+						<h2>Our CREATIVE TEAM</h2>
+						<p>Dantes remained confused and silent by this explanation of the <br> thoughts which had unconsciously</p>
+					</div>
+					<div class="col-md-4 col-sm-4 col-xs-6">
+						<div class="block wow fadeInLeft" data-wow-delay=".3s">
+							<img src="img/team-img1.jpg" alt="">
+							<div class="team-overlay">
+								<h3>SHREYASH <span>Founder, CIM</span></h3>
+								<span class="icon"><i class="ion-quote"></i></span>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4  col-sm-4 col-xs-6">
+						<div class="block wow fadeInLeft" data-wow-delay=".6s">
+							<img src="img/team-img2.jpg" alt="">
+							<div class="team-overlay">
+								<h3>Member 2 <span>Designation</span></h3>
+								<span class="icon"><i class="ion-quote"></i></span>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4  col-sm-4 col-xs-6">
+						<div class="block wow fadeInLeft" data-wow-delay=".9s">
+							<img src="img/team-img3.jpg" alt="">
+							<div class="team-overlay">
+								<h3>Member 3 <span>DesignationJ</span></h3>
+								<span class="icon"><i class="ion-quote"></i></span>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="pricing-table">
+			<div class="container">
+				<div class="row feedback-box">
+					<div class="title">
+						<h2>Feedback</h2>
+						<p>Dantes remained confused and silent by this explanation of the <br> thoughts which had unconsciously</p>
+					</div>
+					<div class="col col-md-6" style="padding: 10px; color:white; ">
+						<div class="media wow fadeInLeft" data-wow-delay=".3s">
+						  <div class="media-left">
+						    <a href="#">
+						      <img src="img/service-img.png" alt="">
+						    </a>
+						  </div>
+						  <div class="media-body">
+						    <a href="#"><h4 class="media-heading">Client - 1</h4></a>
+						    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commo</p>
+						  </div>
+						</div>
+					</div>
+					<div class="col col-md-6" style="padding: 10px; color:white;">
+						<div class="media wow fadeInRight" data-wow-delay=".3s">
+						  <div class="media-left">
+						    <a href="#">
+						      <img src="img/service-img.png" alt="">
+						    </a>
+						  </div>
+						  <div class="media-body">
+						    <a href="#"><h4 class="media-heading">Client - 2</h4></a>
+						    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commo</p>
+						  </div>
+						</div>
+					</div>
+					<div class="col col-md-6" style="padding: 10px; color:white;">
+						<div class="media wow fadeInLeft" data-wow-delay=".3s">
+						  <div class="media-left">
+						    <a href="#">
+						      <img src="img/service-img.png" alt="">
+						    </a>
+						  </div>
+						  <div class="media-body">
+						    <a href="#"><h4 class="media-heading">Client - 3</h4></a>
+						    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commo</p>
+						  </div>
+						</div>
+					</div>
+					<div class="col col-md-6" style="padding: 10px; color:white;">
+						<div class="media wow fadeInRight" data-wow-delay=".3s">
+						  <div class="media-left">
+						    <a href="#">
+						      <img src="img/service-img.png" alt="">
+						    </a>
+						  </div>
+						  <div class="media-body">
+						    <a href="#"><h4 class="media-heading">Client - 4</h4></a>
+						    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commo</p>
+						  </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		
+
+
+
+
+		<section id="testimonial">
+			<div class="container">
+				
+			</div>
+		</section>
+		<section id="client-logo">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="block">
+							<div id="Client_Logo" class="owl-carousel">
+								<div>
+									<a href="#"><img class="img-responsive" src="img/clientLogo/client-logo1.jpg" alt=""></a>
+								</div>
+								<div>
+									<a href="#"><img class="img-responsive" src="img/clientLogo/client-logo2.jpg" alt=""></a>
+								</div>
+								<div>
+									<a href="#"><img class="img-responsive" src="img/clientLogo/client-logo3.jpg" alt=""></a>
+								</div>
+								<div>
+									<a href="#"><img class="img-responsive" src="img/clientLogo/client-logo4.jpg" alt=""></a>
+								</div>
+								<div>
+									<a href="#"><img class="img-responsive" src="img/clientLogo/client-logo5.jpg" alt=""></a>
+								</div>
+								<div>
+									<a href="#"><img class="img-responsive" src="img/clientLogo/client-logo6.jpg" alt=""></a>
+								</div>
+								<div>
+									<a href="#"><img class="img-responsive" src="img/clientLogo/client-logo1.jpg" alt=""></a>
+								</div>
+								<div>
+									<a href="#"><img class="img-responsive" src="img/clientLogo/client-logo2.jpg" alt=""></a>
+								</div>
+								<div>
+									<a href="#"><img class="img-responsive" src="img/clientLogo/client-logo3.jpg" alt=""></a>
+								</div>
+								<div>
+									<a href="#"><img class="img-responsive" src="img/clientLogo/client-logo4.jpg" alt=""></a>
+								</div>
+								<div>
+									<a href="#"><img class="img-responsive" src="img/clientLogo/client-logo5.jpg" alt=""></a>
+								</div>
+								<div>
+									<a href="#"><img class="img-responsive" src="img/clientLogo/client-logo6.jpg" alt=""></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="contact-form">
+			<div class="container">
+				<div class="row">
+					<div class="title">
+						<h2>CONTACT US</h2>
+						<p>Dantes remained confused and silent by this explanation of the <br> thoughts which had unconsciously</p>
+					</div>
+					<div class="col-md-6 col">
+						<!-- map -->
+						<div class="map">
+	                      <div id="googleMap"></div>
+	                   </div><!--/map-->
+
+					</div>
+					<div class="col-md-6">
+						<div class="contact-field">
+						<div class="row">
+							<div class="col-md-2 text-right" >
+								<i class="fa fa-home"></i>
+							</div>
+							<div class="col-md-10 pl-0" >
+								<h3>Call Us:</h3>
+								<div class="contact-info">(+91) xxx xxx xxxx, (+91) xxx xxx xxxx</div>
+							</div>
+						</div>
+						</div>
+
+						<div class="contact-field">
+						<div class="row">
+							<div class="col-md-2 text-right">
+								<i class="fa fa-envelope"></i>
+							</div>
+							<div class="col-md-10 pl-0">
+								<h3>Email Us:</h3>
+								<div class="contact-info">mymail@gmail.com</div>
+							</div>
+						</div>
+						</div>
+
+						<div class="contact-field">
+						<div class="row">
+							<div class="col-md-2 text-right">
+								<i class="fa fa-map-marker"></i>
+							</div>
+							<div class="col-md-10 pl-0">
+								<h3>Address:</h3>
+								<div class="contact-info">Dantes remained confused and silent by this explanation of the</div>
+							</div>
+						</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="block">
+							
+							
+
+							<div class="social-media">
+								<ul>
+									<li><a href="" class="facebook"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="" class="twitter"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
+									<li><a href="" class="instgram"><i class="fa fa-instagram"></i></a></li>
+								</ul>
+							</div>
+							<p>CIM © 2019 All rights reserved <a href="https://themefisher.com/" target="_blank" style=" color: #2ca8b0;">cim.vipscollege.com</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+		<!-- load Js -->
+		<script src="js/jquery-1.11.3.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkeLMlsiwzp6b3Gnaxd86lvakimwGA6UA&callback=initMap"></script>
+		<script src="js/waypoints.min.js"></script>
+		<script src="js/lightbox.js"></script>
+		<script src="js/jquery.counterup.min.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
+		<script src="js/html5lightbox.js"></script>
+		<script src="js/jquery.mixitup.js"></script>
+		<script src="js/wow.min.js"></script>
+		<script src="js/jquery.scrollUp.js"></script>
+		<script src="js/jquery.sticky.js"></script>
+		<script src="js/jquery.nav.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>
